@@ -1,0 +1,36 @@
+{
+    "BotToken":"",
+    "BotClientID":"899396781870297109",
+    "GuildID":"774977651429212181",
+    "OwnerID":"971307007728549918",
+    "BotSesKanal": "969707994784874506",
+
+    "Activity": [
+    "Canlı Destek İçin; /destek",
+    "Başvurular İçin /başvuru",
+    "Öneri/Şikayetler için DM",
+    "/destek İçin Bota DM"
+    ],
+    "Footer":"Jaylen ❤️ Acerhizm ❤️ ⚚ Kronos",
+    "Color":"Black",
+
+    "green":"<a:green:969775759281500171>",
+    "red":"<a:red:969729929996562452>",
+    "star":"<a:star:969775756521660447>",
+    "çizgi":"<a:cizgi:969775757561839616>",
+
+    "CanlıDestekEkibiRoleID":"969707828325523507",
+    "EnAltYetkiliRoleID":"969707879546376214",
+    "TagRoleID":"969707904125001778",
+    "YetkiliAlımRoleID": "969707830175232010",
+    "VerilecekYetkiliRolleriID": ["969707872525119518","969707879546376214"],
+
+    "CanlıDestekKategoryID":"969777149177364550",
+    "CanlıDestekLogChannelID":"969777150154645514",
+    "BaşvuruKategoryID":"969777151068995594",
+    "BasvuruKomutKullanımKanalı":"969777151945605221",
+    "BaşvuruDurumLog": "969777153057099788",
+    "BaşvuruLogChannelID":"969777154411884595",
+    "ÖneriİstekChannelID":"969777154965524482",
+    "SikayetChannelID":"969777154965524482"
+}
